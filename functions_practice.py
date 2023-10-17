@@ -31,3 +31,4 @@ def eat_lunch(fooditems):
 
 
 eat_lunch(["Sandwich", "Cupcake", "Fish"])
+eat_lunch([])
